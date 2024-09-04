@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: A field that data science would be applicable is fantasy sports predictions. In fantasy football, users will draft certain NFL players based on their potential for the season. Many choices are based on a points prediction per game and these are generally sourced from relevant data scientists and IBM Watson. Data Science essentially gives fantasy users/players an upper hand in understanding statistical trends that might not be clear at first glance.
