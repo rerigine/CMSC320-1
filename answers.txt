@@ -1,3 +1,9 @@
+
 Q1: Why might be consider using git?
 
 Answer: Managing our code and large data spaces when it comes to data manipulation.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Fantasy Sports Predictors is a field where is Data Science is applied. For example, Fantasy Football users will draft NFL players based on their supposed potential for the upcoming season. Data Science via relevant data scientists and machines like IBM watson are able to utilize statistical analysis to provide predicted points for players. At first glance, this analysis would not be seen and can certainly higher the chances of a successful fantasy football team.
+
