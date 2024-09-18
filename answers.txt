@@ -9,3 +9,7 @@ Answer: Fantasy Sports Predictors is a field where is Data Science is applied. F
 Q3: What skills do you hope to improve during this course?
 
 Answer: I hope to develop a versatile coding skillset that will allow me to manipulate big data in a way where certain processes can be applied to different instances, whether it is sports statistics or educational records.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to gain the skill of understanding what big datasets can be understood as and how they can be managed to make proper assumptions. I currently am more used to simply solving problems put in front of me, technically. But the inclusion of data science can add on accuracy and holistic implementation of trends I may see in data.
